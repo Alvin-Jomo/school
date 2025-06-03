@@ -1,0 +1,4 @@
+**Database Name: librarymanagementdb**
+
+Username: admin
+Password: admin
